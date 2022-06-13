@@ -1,0 +1,14 @@
+.nav-item a{
+    cursor: pointer;
+    padding-top: 10px;
+   
+}
+.nav-item a{
+    size: 30px;
+}
+.nav-item:hover{
+  background: rgb(180, 183, 226);
+}
+#width{
+    width: 60%;
+}
